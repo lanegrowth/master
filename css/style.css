@@ -1,0 +1,43 @@
+body {
+	background-color: #ededed;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 14px;
+}
+
+.body {
+padding-top: 100px;
+border-width: 0px;
+border-color: #000000;
+border-style: solid;
+margin-left: auto;
+margin-right: auto;
+width: 600px;
+text-align: center;
+}
+
+h1 {
+	margin-bottom: 7px;
+	margin-top: 5px;
+	font-size: 32px;
+	font-style: bold;
+	color: #333333;
+}
+
+#header {
+	text-align: center;
+}
+
+#footer {
+	text-align: center;
+}
+
+a {
+	color: #000000;
+}
+
+
+#content a {
+	//font-size: 14px;
+	vertical-align: center;
+	text-align: center;
+}
